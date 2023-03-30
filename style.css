@@ -1,0 +1,151 @@
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 20px;
+    background-color: #f0f2f5;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1.34
+}
+
+.box {
+    max-width: 434px;
+    min-width: 360px;
+    height: 100%;
+    margin: 20px auto;
+    border: none;
+    background-color: #ffffff;
+    border-radius: 10px;
+    box-shadow: 2px 2px 20px 5px gray;
+}
+
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 55px;
+    text-align: center;
+    color: #1877f2;
+    margin-top: 20px;
+    margin-bottom: 0px;
+}
+
+small {
+    color: #888888;
+    font-size: 11px;
+}
+
+p {
+    font-size: 13px;
+    text-align: center;
+}
+
+form {
+    padding: 22px;
+
+
+}
+
+h2,
+h3 {
+    text-align: center;
+}
+
+h3 {
+    color: #1877f2;
+}
+
+#imp {
+    padding-left: 160px;
+}
+
+input[type=text] {
+    width: 94%;
+    padding: 7px;
+    font-size: 16px;
+    border: none;
+    border: 0.5px solid #dfe1e4;
+    border-radius: 3px;
+    outline: none;
+}
+
+
+input[type=password] {
+    width: 94%;
+    padding: 7px;
+    font-size: 16px;
+    border: none;
+    border: 0.5px solid #dfe1e4;
+    border-radius: 3px;
+    outline: none;
+
+}
+
+input[type=firstname] {
+    width: 44%;
+    padding: 6px;
+    font-size: 16px;
+    border: none;
+    border: 0.5px solid #dfe1e4;
+    border-radius: 3px;
+    outline: none;
+
+
+}
+
+input[type=surname] {
+    width: 44%;
+    padding: 6px;
+    font-size: 16px;
+    margin-left: 4px;
+    border: none;
+    border: 0.5px solid #dfe1e4;
+    border-radius: 3px;
+    outline: none;
+
+}
+
+
+select {
+    width: 32%;
+    padding: 7px;
+    font-size: 16px;
+    border-radius: 5px;
+}
+
+input[type=radio] {
+    width: 30px;
+    font-size: 16px;
+    border: none;
+    border: 0.5px solid #dfe1e4;
+    border-radius: 3px;
+    outline: none;
+
+
+}
+
+
+button {
+    width: 60%;
+    padding: 7px;
+    background-color: #00a400;
+    border-radius: 8px;
+    border: none;
+    font-size: 18px;
+    color: #f0f2f5;
+    margin-left: 80px;
+    outline: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+
+
+
+
+
+
+
